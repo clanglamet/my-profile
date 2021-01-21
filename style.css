@@ -36,7 +36,7 @@ header {
 }
 
 .img_hidden {
-  display: hidden;
+  visibility: hidden;
 }
 
 
